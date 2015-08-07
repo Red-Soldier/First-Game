@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1438930802 source:a:\codeblocks\c++ projects\untitled console project\main.cpp
-	<iostream>
-	<stdlib.h>
-	<ctime>
-
